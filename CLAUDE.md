@@ -1,3 +1,6 @@
+# Creative Domain — Writing Rules
+<!-- Domain: Creative (Novels & Lyrics) | Global rules: ~/.claude/CLAUDE.md -->
+
 # 執筆ルール（小説スタイルガイド）
 
 3つのリファレンス作品（崩壊世界のアキラ、オーバーロード、この素晴らしい世界に祝福を！）の計21章分を分析して抽出した文体・構成のルール。
